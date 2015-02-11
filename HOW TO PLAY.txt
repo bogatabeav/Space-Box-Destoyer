@@ -1,0 +1,21 @@
+How to Play Space Box Destroyer
+================================
+
+In Space Box Destroyer you have 120 seconds to 
+destroy as many targets as you can.  After the timer
+runs out your stats are displayed and you have the 
+option to play again or exit the game.
+
+To begin, double click MyGame.jar in the dist folder.
+Click the Okay button and the game will start.
+
+Below are the Game controls
+=============================
+W - Forward
+S - Backward
+A - Strafe Left
+D - Strafe Right
+Space - Jump
+Left Click - Fire Bullets
+Left Click and hold - Change Look Angle
+Escape - Exit Game
